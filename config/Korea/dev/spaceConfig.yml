@@ -6,6 +6,7 @@ space-developer:
   - admin
   - mkim@pivotal.io
   - myminseok@gmail.com
+  - a@pivotal.io
   saml_users: []
   ldap_groups: []
 space-manager:
