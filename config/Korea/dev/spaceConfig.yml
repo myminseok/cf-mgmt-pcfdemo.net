@@ -13,7 +13,6 @@ space-manager:
   users:
   - admin
   - mkim@pivotal.io
-  - myminseok@gmail.com
   saml_users: []
   ldap_groups: []
 space-auditor:
